@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/single-price-grid-component/static/css/main.8be9312a.chunk.css",
-    "main.js": "/single-price-grid-component/static/js/main.38879e8e.chunk.js",
-    "main.js.map": "/single-price-grid-component/static/js/main.38879e8e.chunk.js.map",
+    "main.css": "/single-price-grid-component/static/css/main.40f84507.chunk.css",
+    "main.js": "/single-price-grid-component/static/js/main.6f3716a8.chunk.js",
+    "main.js.map": "/single-price-grid-component/static/js/main.6f3716a8.chunk.js.map",
     "runtime-main.js": "/single-price-grid-component/static/js/runtime-main.2be11a2b.js",
     "runtime-main.js.map": "/single-price-grid-component/static/js/runtime-main.2be11a2b.js.map",
-    "static/js/2.c5dba40c.chunk.js": "/single-price-grid-component/static/js/2.c5dba40c.chunk.js",
-    "static/js/2.c5dba40c.chunk.js.map": "/single-price-grid-component/static/js/2.c5dba40c.chunk.js.map",
+    "static/js/2.c6403c2c.chunk.js": "/single-price-grid-component/static/js/2.c6403c2c.chunk.js",
+    "static/js/2.c6403c2c.chunk.js.map": "/single-price-grid-component/static/js/2.c6403c2c.chunk.js.map",
     "index.html": "/single-price-grid-component/index.html",
-    "static/css/main.8be9312a.chunk.css.map": "/single-price-grid-component/static/css/main.8be9312a.chunk.css.map",
-    "static/js/2.c5dba40c.chunk.js.LICENSE.txt": "/single-price-grid-component/static/js/2.c5dba40c.chunk.js.LICENSE.txt"
+    "static/css/main.40f84507.chunk.css.map": "/single-price-grid-component/static/css/main.40f84507.chunk.css.map",
+    "static/js/2.c6403c2c.chunk.js.LICENSE.txt": "/single-price-grid-component/static/js/2.c6403c2c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2be11a2b.js",
-    "static/js/2.c5dba40c.chunk.js",
-    "static/css/main.8be9312a.chunk.css",
-    "static/js/main.38879e8e.chunk.js"
+    "static/js/2.c6403c2c.chunk.js",
+    "static/css/main.40f84507.chunk.css",
+    "static/js/main.6f3716a8.chunk.js"
   ]
 }

@@ -1,2 +1,0 @@
-(this["webpackJsonpsingle-price-grid-component"]=this["webpackJsonpsingle-price-grid-component"]||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);var i=t(1),c=t.n(i),r=t(3),o=t.n(r),s=t(0);function p(){return Object(s.jsx)("div",{style:{textAlign:"center",marginTop:"20x",fontSize:"25px"},children:"~ Hello world! ~"})}t(9);o.a.render(Object(s.jsx)(c.a.StrictMode,{children:Object(s.jsx)(p,{})}),document.getElementById("root"))},9:function(e,n,t){}},[[10,1,2]]]);
-//# sourceMappingURL=main.38879e8e.chunk.js.map
